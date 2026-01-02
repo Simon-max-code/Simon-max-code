@@ -1,183 +1,87 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SIMON%20MAX&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Architect%20%7C%20Code%20Craftsman&descAlignY=51&descAlign=50"/>
-
-</div>
+# <div align="center">👋 Simon Max</div>
 
 <div align="center">
+  
+### 🚀 I Ship. I Build. I Create.
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+Digital+Experiences;Shipping+Production-Grade+Code;Transforming+Ideas+into+Reality" alt="Typing SVG" /></a>
-
-<!-- Animated Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-brightgreen?style=flat-square&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Shipping%20Daily-success?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Building%20The%20Future-blue?style=flat-square&logo=google-maps&logoColor=white" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Modern+Web+Applications;Scalable+Full-Stack+Solutions;Clean+%26+Performant+Code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 💫 About Me
 
-### 🎯 WHO AM I
+I'm a full-stack developer who transforms ideas into polished, production-ready web experiences. From sleek frontends to robust backends, I build applications that users love and businesses rely on.
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  expertise: string[];
-  mindset: string;
-}
-
-const SimonMax: Developer = {
-  name: "Simon Max",
-  role: "Full-Stack Engineer",
-  expertise: [
-    "Modern Web Architecture",
-    "Scalable Backend Systems", 
-    "Pixel-Perfect Frontends",
-    "Database Optimization"
-  ],
-  mindset: "Ship fast. Build smart. Scale seamlessly."
-};
-
-export default SimonMax;
-```
-
-<br clear="right"/>
-
----
-
-## 🧰 TECHNOLOGY STACK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Universe
 ```javascript
-const frontend = {
-  core: ["HTML5", "CSS3", "JavaScript ES6+"],
-  frameworks: ["React", "Angular"],
-  styling: ["TailwindCSS", "Sass", "Styled-Components"],
-  animations: ["Framer Motion", "GSAP"],
-  building: "Responsive, Fast, Beautiful"
-}
-```
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,sass,vite" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Powerhouse
-```javascript
-const backend = {
-  runtime: ["Node.js", "PHP"],
-  frameworks: ["Express", "Nest.js"],
+const simon = {
+  code: ["HTML", "CSS", "JavaScript", "PHP"],
+  frameworks: ["React", "Node.js", "Angular"],
   databases: ["PostgreSQL", "MySQL"],
-  apis: ["REST", "GraphQL"],
-  focus: "Performance, Security, Scale"
-}
+  focus: "Shipping modern web apps that matter",
+  currentlyLearning: "Always evolving 🌱"
+};
 ```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,express,postgresql,mysql,graphql,docker,nginx" />
-</p>
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 📈 GITHUB METRICS
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=simon-max-codes&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simon-max-codes&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=simon-max-codes&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-max-codes&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=simon-max-codes&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-</div>
-
----
-
-## 🎯 WHAT DRIVES ME
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/>
-<br><strong>Ship Fast</strong>
-<br><sub>MVP to Production</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-<br><strong>Clean Code</strong>
-<br><sub>Maintainable & Scalable</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/performance-macbook.png" width="60"/>
-<br><strong>Performance</strong>
-<br><sub>Optimized & Lightning Fast</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/design.png" width="60"/>
-<br><strong>UX First</strong>
-<br><sub>User-Centric Design</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 CURRENT FOCUS
-
-```mermaid
-graph LR
-    A[Learning] -->|AI Integration| B[Next.js 14+]
-    A -->|Real-time| C[WebSockets]
-    A -->|Cloud| D[AWS/Vercel]
-    B --> E[Modern Apps]
-    C --> E
-    D --> E
-    E -->|Deploy| F[🚀 Production]
-```
-
-<div align="center">
-
-### 🌟 Building the next generation of web experiences
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 LET'S BUILD SOMETHING AMAZING
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simon-max-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-max-codes&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simon-max-codes&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔥 What I'm About
+
+- 🎯 **Building for Impact** — Every project ships with purpose
+- ⚡ **Performance First** — Fast, efficient, optimized
+- 🎨 **Design Matters** — Clean UI, smooth UX
+- 🔧 **Full-Stack Fluency** — Frontend elegance meets backend power
+- 📦 **Production Ready** — Code that scales and maintains
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br>
-
-### 📫 Open to collaborations, freelance, and exciting projects!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://simon-myportfoilo.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguebuka-emmanuel-25b4223a0/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SimondevHQ?t=PDwMosjhPZatEsE3ODcpBQ&s=08)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxsimon790@gmail.com)
 
 </div>
 
@@ -185,10 +89,10 @@ graph LR
 
 <div align="center">
 
-### 💎 "Code is art. Execution is everything."
+### 💭 "Code is poetry written in logic."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=simon-max-codes&color=blueviolet&style=for-the-badge)
 
-<sub>![Visitor Count](https://profile-counter.glitch.me/simon-max-codes/count.svg)</sub>
+⭐️ From [simon-max-codes](https://github.com/simon-max-codes)
 
 </div>
