@@ -58,7 +58,7 @@ const simon = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simonmax-code)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Simon-max-code)](https://git.io/streak-stats)
 </div>
 
 ---
