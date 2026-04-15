@@ -18,7 +18,7 @@ I'm a full-stack developer who transforms ideas into polished, production-ready 
 const simon = {
   code: ["HTML", "CSS", "JavaScript", "PHP"],
   frameworks: ["React", "Node.js", "Angular"],
-  databases: ["PostgreSQL", "MySQL"],
+  databases: ["PostgreSQL", "MySQL", "Mongodb"],
   focus: "Shipping modern web apps that matter",
   currentlyLearning: "Always evolving 🌱"
 };
